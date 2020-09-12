@@ -13,6 +13,7 @@ namespace JWTRkDemo.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
+            //comment added in master branch.
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
