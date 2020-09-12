@@ -10,6 +10,26 @@ namespace JWTRkDemo.Controllers
     {
         public IActionResult Index()
         {
+             
+            return View();
+        }
+
+        public IActionResult Index2()
+        {
+            //comment added in jwtdev branch
+            return View();
+        }
+
+
+        public IActionResult Index3()
+        {
+            //comment added in jwtdev branch
+            return View();
+        }
+
+
+        public IActionResult Index4()
+        {
             //comment added in jwtdev branch
             return View();
         }
